@@ -1,0 +1,20 @@
+C:\Users\FrAnt\Documents\Visual Studio 2017\Projects\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\FrAnt\Documents\Visual Studio 2017\Projects\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\FrAnt\Documents\Visual Studio 2017\Projects\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\FrAnt\Documents\Visual Studio 2017\Projects\Contacts\Contacts\obj\Debug\Contacts.Econtact.resources
+C:\Users\FrAnt\Documents\Visual Studio 2017\Projects\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\FrAnt\Documents\Visual Studio 2017\Projects\Contacts\Contacts\obj\Debug\Econtact.csproj.GenerateResource.cache
+C:\Users\FrAnt\Documents\Visual Studio 2017\Projects\Contacts\Contacts\obj\Debug\Econtact.csproj.CoreCompileInputs.cache
+C:\Users\FrAnt\Documents\Visual Studio 2017\Projects\Contacts\Contacts\obj\Debug\Contacts.exe
+C:\Users\FrAnt\Documents\Visual Studio 2017\Projects\Contacts\Contacts\obj\Debug\Contacts.pdb
+C:\Users\FrAnt\Documents\Visual Studio 2017\Projects\Contacts\Contacts\obj\Debug\Econtact.csprojAssemblyReference.cache
+C:\Users\FrAnt\Source\Repos\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\FrAnt\Source\Repos\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\FrAnt\Source\Repos\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\FrAnt\Source\Repos\Contacts\Contacts\obj\Debug\Econtact.csprojAssemblyReference.cache
+C:\Users\FrAnt\Source\Repos\Contacts\Contacts\obj\Debug\Contacts.Econtact.resources
+C:\Users\FrAnt\Source\Repos\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\FrAnt\Source\Repos\Contacts\Contacts\obj\Debug\Econtact.csproj.GenerateResource.cache
+C:\Users\FrAnt\Source\Repos\Contacts\Contacts\obj\Debug\Econtact.csproj.CoreCompileInputs.cache
+C:\Users\FrAnt\Source\Repos\Contacts\Contacts\obj\Debug\Contacts.exe
+C:\Users\FrAnt\Source\Repos\Contacts\Contacts\obj\Debug\Contacts.pdb

@@ -1,0 +1,10 @@
+C:\Users\FrAnt\Documents\Visual Studio 2017\Projects\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\FrAnt\Documents\Visual Studio 2017\Projects\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\FrAnt\Documents\Visual Studio 2017\Projects\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\FrAnt\Documents\Visual Studio 2017\Projects\Contacts\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+C:\Users\FrAnt\Documents\Visual Studio 2017\Projects\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\FrAnt\Documents\Visual Studio 2017\Projects\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+C:\Users\FrAnt\Documents\Visual Studio 2017\Projects\Contacts\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\FrAnt\Documents\Visual Studio 2017\Projects\Contacts\Contacts\obj\Debug\Contacts.exe
+C:\Users\FrAnt\Documents\Visual Studio 2017\Projects\Contacts\Contacts\obj\Debug\Contacts.pdb
+C:\Users\FrAnt\Documents\Visual Studio 2017\Projects\Contacts\Contacts\obj\Debug\Contacts.Econtact.resources
